@@ -1,0 +1,11 @@
+abcd
+dcba
+bbbb
+hello
+this
+is
+a
+test
+dictionary
+
+
